@@ -1,2 +1,2 @@
-# The_Sparks_Founation_DSc_Internship
+# The Sparks Founation Data Science Internship
 Prediction using Supervised ML.
